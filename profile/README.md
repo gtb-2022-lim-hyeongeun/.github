@@ -13,7 +13,7 @@ This is me.
 I love treveling. In china, I have been to Guilin, Chongqing, Shanghai, Chongqing huoguo and noodles are very delicious, and Hongya-dong is very magical.Shanghai is a very busy city, and I like it very much.   
 
 I went to shanghai during the winter vacation. This is a picture I took in front of 东方明珠.      
-<img src="shanghai_2022.jpg" alt="shanghai_2022" width="30%" />   
+<img src="assets/shanghai_2022.jpg" alt="shanghai_2022" width="30%" />   
 
 My biggest hobby is cooking, and I am especially interested in various foods from various countries, and I usually study the menu to make my menu more delicious.   
 
